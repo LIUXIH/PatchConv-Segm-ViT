@@ -8,4 +8,4 @@ The inference code is evaluate.py.
 python == 3.6,
 torch == 1.8.0,
 h5py == 3.4.0,
-scipy == 1.7.1,
+scipy == 1.7.1
